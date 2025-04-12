@@ -1,0 +1,1 @@
+var json_Masinga_reservoir_5 = {"type":"FeatureCollection","name":"Masinga_reservoir_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Name":null},"geometry":{"type":"Point","coordinates":[37.482117281604694,-0.90077483290135]}}]}
